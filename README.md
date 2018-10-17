@@ -4,4 +4,4 @@ This repository is for the new comers so that they can get themselves familiar w
 You just need to write your name along with your github username and send a Pull Request. As simple as that!
 
 1. [Raman Dutt](https://github.com/Raman1121)
-2. [Rocky Singh] (https://github.com/Rocky-Singh)
+2. [Rocky Singh](https://github.com/Rocky-Singh)
